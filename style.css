@@ -1,0 +1,17 @@
+nav {
+  color: #fff;
+  background: black;
+}
+body {
+  padding-left:25rem ;
+}
+.enumeration {
+  list-style-type: inherit;
+}
+/*# sourceMappingURL=style.css.map */
+
+p {
+  color: navy;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
